@@ -2,6 +2,7 @@ public class Test {
     public static void main(String[] args) {
         new A();
         new B();
+        System.out.println("second commit");
     }
 }
 class A {
